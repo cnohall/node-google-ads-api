@@ -1,0 +1,23 @@
+{
+  "name": "google-ads-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnohall/node-google-ads-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnohall/node-google-ads-api/issues"
+  },
+  "homepage": "https://github.com/cnohall/node-google-ads-api#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
