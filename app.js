@@ -49,7 +49,7 @@ app.get('/campaigns', async (req, res) => {
       from_date: "2021-01-01",
       to_date: "2021-02-01",
     });
-  res.send(campaigns)    
+    res.send(campaigns)    
   }
   catch (e) {
     res.send(e);
